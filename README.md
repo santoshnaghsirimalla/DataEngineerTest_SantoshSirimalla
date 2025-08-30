@@ -42,8 +42,8 @@ All results are included in executed Jupyter notebooks and summarized in the fin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/santoshnaghsirimalla/DataEngineerTest_SantoshSirimalla.git
+cd DataEngineerTest_SantoshSirimalla
 ```
 
 ### 2. Python environment
@@ -79,15 +79,14 @@ supermarkets = pd.read_csv(base_path + "supermarkets.csv")
 jupyter notebook
 ```
 
-- **Task 01:** `Santosh_BRD_Supermarkettest_Task1.ipynb`  
-- **Task 02:** `Santosh_DataEngineerTest_RL_Task2.ipynb`  
+
 
 ---
 
 ## Deliverables
 - **Final Report:** `Santosh_DataEngineerTest_Report.pdf` – documentation of methodology, results, and recommendations.  
-- **Task 01 Notebook:** Supermarket analytics with supervised ML.  
-- **Task 02 Notebook:** Reinforcement learning maze experiment.  
+- **Task 01:** `Santosh_BRD_Supermarkettest_Task1.ipynb`  
+- **Task 02:** `Santosh_DataEngineerTest_RL_Task2.ipynb`  
 - **Repository:** Organized and reproducible, with clear guidance for both reviewers and users.  
 
 ---
