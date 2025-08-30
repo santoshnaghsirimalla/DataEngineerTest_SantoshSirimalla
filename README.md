@@ -85,9 +85,10 @@ jupyter notebook
 
 ## Deliverables
 - **Final Report:** `Santosh_DataEngineerTest_Report.pdf` – documentation of methodology, results, and recommendations.  
-- **Task 01:** `Santosh_BRD_Supermarkettest_Task1.ipynb`  
-- **Task 02:** `Santosh_DataEngineerTest_RL_Task2.ipynb`  
+- **Task 01 Notebook:** `Santosh_BRD_Supermarkettest_Task1.ipynb` – supervised ML models on supermarket data (basket revenue, customer returns, high-performing stores).  
+- **Task 02 Notebook:** `Santosh_DataEngineerTest_RL_Task2.ipynb` – reinforcement learning maze experiment.  
 - **Repository:** Organized and reproducible, with clear guidance for both reviewers and users.  
+
 
 ---
 
